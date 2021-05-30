@@ -1,6 +1,6 @@
 # ignorar datos grandes
 registros.json
-data/*
+data/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
